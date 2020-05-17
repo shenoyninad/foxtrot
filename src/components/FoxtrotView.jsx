@@ -1,4 +1,5 @@
 import React from 'react';
+import HeaderComponent from './heading/HeaderComponent';
 
 class FoxtrotView extends React.Component{
   constructor(props){
@@ -7,9 +8,7 @@ class FoxtrotView extends React.Component{
 
   render(){
     return(
-      <div>
-        <p>Hello</p>
-      </div>
+      <HeaderComponent />
     );
   }
 }
