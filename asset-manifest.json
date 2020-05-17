@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/foxtrot/static/css/main.070ebf8d.chunk.css",
+    "main.js": "/foxtrot/static/js/main.0b8fac3a.chunk.js",
+    "main.js.map": "/foxtrot/static/js/main.0b8fac3a.chunk.js.map",
+    "runtime-main.js": "/foxtrot/static/js/runtime-main.a1b89535.js",
+    "runtime-main.js.map": "/foxtrot/static/js/runtime-main.a1b89535.js.map",
+    "static/js/2.d058a947.chunk.js": "/foxtrot/static/js/2.d058a947.chunk.js",
+    "static/js/2.d058a947.chunk.js.map": "/foxtrot/static/js/2.d058a947.chunk.js.map",
+    "index.html": "/foxtrot/index.html",
+    "precache-manifest.1d79ab1a25078f050830df5bc71e4df1.js": "/foxtrot/precache-manifest.1d79ab1a25078f050830df5bc71e4df1.js",
+    "service-worker.js": "/foxtrot/service-worker.js",
+    "static/css/main.070ebf8d.chunk.css.map": "/foxtrot/static/css/main.070ebf8d.chunk.css.map",
+    "static/js/2.d058a947.chunk.js.LICENSE.txt": "/foxtrot/static/js/2.d058a947.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1b89535.js",
+    "static/js/2.d058a947.chunk.js",
+    "static/css/main.070ebf8d.chunk.css",
+    "static/js/main.0b8fac3a.chunk.js"
+  ]
+}
