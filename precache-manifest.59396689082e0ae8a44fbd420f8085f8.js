@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6865cf86d72f7afabc54bdaecf2e32dd",
+    "revision": "1eb56d8fb1aaec8727544590401604a1",
     "url": "/foxtrot/index.html"
   },
   {
-    "revision": "1f85d2ee71e0d3c5325e",
-    "url": "/foxtrot/static/css/main.070ebf8d.chunk.css"
+    "revision": "999a532e56ab9879190b",
+    "url": "/foxtrot/static/css/main.79cbc19f.chunk.css"
   },
   {
     "revision": "c5cf289815da86215f05",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/foxtrot/static/js/2.d058a947.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1f85d2ee71e0d3c5325e",
-    "url": "/foxtrot/static/js/main.0b8fac3a.chunk.js"
+    "revision": "999a532e56ab9879190b",
+    "url": "/foxtrot/static/js/main.685e204c.chunk.js"
   },
   {
     "revision": "629ea0a05499816d7017",
